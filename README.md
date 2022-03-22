@@ -1,7 +1,7 @@
 # Minecraft-Server-Downloader
 Easy Simple Way to Download Minecraft Server jar
 
-## version manifest get from https://getbukkit.org/
+## Versions get from https://getbukkit.org/
 
 ## INFO
 ```
