@@ -1,5 +1,5 @@
 const request = require('request'), fs = require('fs'), _cliProgress = require('cli-progress');
-const filename = "test";
+const filename = "index";
 
 const downloader = (url, filename, callback) => {
 
