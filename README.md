@@ -1,6 +1,8 @@
 # Minecraft-Server-Downloader
 Easy Simple Way to Download Minecraft Server jar
 
+## version manifest get from https://getbukkit.org/
+
 ## INFO
 ```
 Warning use as: node index <command> EX. node index help
