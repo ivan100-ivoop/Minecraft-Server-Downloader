@@ -1,7 +1,7 @@
 # Minecraft-Server-Downloader
 Easy Simple Way to Download Minecraft Server jar
 
-## HELP
+## INFO
 ```
 Warning use as: node index <command> EX. node index help
 
